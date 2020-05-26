@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/salferrari.monsters-rolo/static/css/main.71215815.chunk.css",
+    "main.js": "/salferrari.monsters-rolo/static/js/main.94f784f7.chunk.js",
+    "main.js.map": "/salferrari.monsters-rolo/static/js/main.94f784f7.chunk.js.map",
+    "runtime-main.js": "/salferrari.monsters-rolo/static/js/runtime-main.fcdaff39.js",
+    "runtime-main.js.map": "/salferrari.monsters-rolo/static/js/runtime-main.fcdaff39.js.map",
+    "static/js/2.7aaef059.chunk.js": "/salferrari.monsters-rolo/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/salferrari.monsters-rolo/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/salferrari.monsters-rolo/index.html",
+    "precache-manifest.fabdb353708c555164b6aee8f9a2a939.js": "/salferrari.monsters-rolo/precache-manifest.fabdb353708c555164b6aee8f9a2a939.js",
+    "service-worker.js": "/salferrari.monsters-rolo/service-worker.js",
+    "static/css/main.71215815.chunk.css.map": "/salferrari.monsters-rolo/static/css/main.71215815.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/salferrari.monsters-rolo/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcdaff39.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.71215815.chunk.css",
+    "static/js/main.94f784f7.chunk.js"
+  ]
+}
